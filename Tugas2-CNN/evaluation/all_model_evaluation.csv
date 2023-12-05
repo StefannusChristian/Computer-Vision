@@ -1,0 +1,5 @@
+Model Name,#Correct Predictions,#Wrong Predictions,Accuracy,Precision,Recall,F1 Score
+ResNet,3278,143,95.8199,95.6497,95.1799,95.3404
+GoogLeNet,3271,150,95.6153,94.7455,95.1773,94.8394
+AlexNet,3162,259,92.4291,91.3817,91.2583,91.1861
+VGG,3134,287,91.5814,90.7046,90.0089,90.3149

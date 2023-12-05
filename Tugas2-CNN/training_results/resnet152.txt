@@ -1,0 +1,165 @@
+Epoch number 1
+100%|██████████| 187/187 [47:10<00:00, 15.14s/it]
+Training dataset: Got 10009 out of 11959 images correctly (83.694%). Epoch loss: 0.593
+100%|██████████| 54/54 [07:34<00:00,  8.42s/it]
+Testing dataset. Got 2608 out of 3421 images correctly (76.235%)
+Epoch number 1 takes 3286.9461 seconds
+Estimated remaining time: 17 hours, 20 minutes, 51 seconds
+
+Epoch number 2
+100%|██████████| 187/187 [47:14<00:00, 15.16s/it]
+Training dataset: Got 11077 out of 11959 images correctly (92.625%). Epoch loss: 0.220
+100%|██████████| 54/54 [07:32<00:00,  8.38s/it]
+Testing dataset. Got 3014 out of 3421 images correctly (88.103%)
+Epoch number 2 takes 3287.9194 seconds
+Estimated remaining time: 16 hours, 26 minutes, 22 seconds
+
+Epoch number 3
+100%|██████████| 187/187 [46:59<00:00, 15.08s/it]
+Training dataset: Got 11246 out of 11959 images correctly (94.038%). Epoch loss: 0.175
+100%|██████████| 54/54 [07:29<00:00,  8.32s/it]
+Testing dataset. Got 3099 out of 3421 images correctly (90.588%)
+Epoch number 3 takes 3269.5932 seconds
+Estimated remaining time: 15 hours, 26 minutes, 23 seconds
+
+Epoch number 4
+100%|██████████| 187/187 [46:51<00:00, 15.03s/it]
+Training dataset: Got 11264 out of 11959 images correctly (94.188%). Epoch loss: 0.161
+100%|██████████| 54/54 [07:30<00:00,  8.35s/it]
+Testing dataset. Got 3170 out of 3421 images correctly (92.663%)
+Epoch number 4 takes 3262.9102 seconds
+Estimated remaining time: 14 hours, 30 minutes, 6 seconds
+
+Epoch number 5
+100%|██████████| 187/187 [46:52<00:00, 15.04s/it]
+Training dataset: Got 11410 out of 11959 images correctly (95.409%). Epoch loss: 0.130
+100%|██████████| 54/54 [07:30<00:00,  8.34s/it]
+Testing dataset. Got 3132 out of 3421 images correctly (91.552%)
+Epoch number 5 takes 3262.6587 seconds
+Estimated remaining time: 13 hours, 35 minutes, 39 seconds
+
+Epoch number 6
+100%|██████████| 187/187 [46:52<00:00, 15.04s/it]
+Training dataset: Got 11473 out of 11959 images correctly (95.936%). Epoch loss: 0.117
+100%|██████████| 54/54 [07:30<00:00,  8.34s/it]
+Testing dataset. Got 3211 out of 3421 images correctly (93.861%)
+Epoch number 6 takes 3264.3279 seconds
+Estimated remaining time: 12 hours, 41 minutes, 40 seconds
+
+Epoch number 7
+100%|██████████| 187/187 [46:53<00:00, 15.05s/it]
+Training dataset: Got 11535 out of 11959 images correctly (96.455%). Epoch loss: 0.100
+100%|██████████| 54/54 [07:30<00:00,  8.35s/it]
+Testing dataset. Got 3180 out of 3421 images correctly (92.955%)
+Epoch number 7 takes 3264.2908 seconds
+Estimated remaining time: 11 hours, 47 minutes, 15 seconds
+
+Epoch number 8
+100%|██████████| 187/187 [46:53<00:00, 15.05s/it]
+Training dataset: Got 11584 out of 11959 images correctly (96.864%). Epoch loss: 0.089
+100%|██████████| 54/54 [07:30<00:00,  8.35s/it]
+Testing dataset. Got 3206 out of 3421 images correctly (93.715%)
+Epoch number 8 takes 3264.3879 seconds
+Estimated remaining time: 10 hours, 52 minutes, 52 seconds
+
+Epoch number 9
+100%|██████████| 187/187 [46:48<00:00, 15.02s/it]
+Training dataset: Got 11597 out of 11959 images correctly (96.973%). Epoch loss: 0.087
+100%|██████████| 54/54 [07:29<00:00,  8.32s/it]
+Testing dataset. Got 3217 out of 3421 images correctly (94.037%)
+Epoch number 9 takes 3259.3173 seconds
+Estimated remaining time: 9 hours, 57 minutes, 32 seconds
+
+Epoch number 10
+100%|██████████| 187/187 [46:46<00:00, 15.01s/it]
+Training dataset: Got 11658 out of 11959 images correctly (97.483%). Epoch loss: 0.071
+100%|██████████| 54/54 [07:29<00:00,  8.32s/it]
+Testing dataset. Got 3176 out of 3421 images correctly (92.838%)
+Epoch number 10 takes 3256.1158 seconds
+Estimated remaining time: 9 hours, 2 minutes, 41 seconds
+
+Epoch number 11
+100%|██████████| 187/187 [55:63<00:00, 17.85s/it]
+Training dataset: Got 11673 out of 11959 images correctly (97.608%). Epoch loss: 0.068
+100%|██████████| 54/54 [10:26<00:00, 11.59s/it]
+Testing dataset. Got 3221 out of 3421 images correctly (94.154%)
+Epoch number 11 takes 3963.8104 seconds
+Estimated remaining time: 8 hours, 8 minutes, 24 seconds
+
+Epoch number 12
+100%|██████████| 187/187 [51:47<00:00, 16.62s/it]
+Training dataset: Got 11766 out of 11959 images correctly (98.386%). Epoch loss: 0.049
+100%|██████████| 54/54 [10:17<00:00, 11.43s/it]
+Testing dataset. Got 3211 out of 3421 images correctly (93.861%)
+Epoch number 12 takes 3724.6694 seconds
+Estimated remaining time: 7 hours, 2 minutes, 20 seconds
+
+Epoch number 13
+100%|██████████| 187/187 [53:27<00:00, 17.15s/it]
+Training dataset: Got 11710 out of 11959 images correctly (97.918%). Epoch loss: 0.060
+100%|██████████| 54/54 [10:00<00:00, 11.13s/it]
+Testing dataset. Got 3241 out of 3421 images correctly (94.738%)
+Epoch number 13 takes 3810.3535 seconds
+Estimated remaining time: 6 hours, 0 minutes, 15 seconds
+
+Epoch number 14
+100%|██████████| 187/187 [49:26<00:00, 15.86s/it]
+Training dataset: Got 11836 out of 11959 images correctly (98.971%). Epoch loss: 0.030
+100%|██████████| 54/54 [12:43<00:00, 14.14s/it]
+Testing dataset. Got 3224 out of 3421 images correctly (94.241%)
+Epoch number 14 takes 3730.0715 seconds
+Estimated remaining time: 4 hours, 56 minutes, 44 seconds
+
+Epoch number 15
+100%|██████████| 187/187 [50:09<00:00, 16.10s/it]
+Training dataset: Got 11758 out of 11959 images correctly (98.319%). Epoch loss: 0.048
+100%|██████████| 54/54 [09:47<00:00, 10.88s/it]
+Testing dataset. Got 2983 out of 3421 images correctly (87.197%)
+Epoch number 15 takes 3597.5689 seconds
+Estimated remaining time: 3 hours, 54 minutes, 33 seconds
+
+Epoch number 16
+100%|██████████| 187/187 [49:20<00:00, 15.83s/it]
+Training dataset: Got 11726 out of 11959 images correctly (98.052%). Epoch loss: 0.057
+100%|██████████| 54/54 [09:47<00:00, 10.89s/it]
+Testing dataset. Got 3161 out of 3421 images correctly (92.400%)
+Epoch number 16 takes 3548.4326 seconds
+Estimated remaining time: 2 hours, 54 minutes, 35 seconds
+
+Epoch number 17
+100%|██████████| 187/187 [49:20<00:00, 15.83s/it]
+Training dataset: Got 11745 out of 11959 images correctly (98.211%). Epoch loss: 0.049
+100%|██████████| 54/54 [09:47<00:00, 10.88s/it]
+Testing dataset. Got 3158 out of 3421 images correctly (92.312%)
+Epoch number 17 takes 3548.1285 seconds
+Estimated remaining time: 1 hours, 55 minutes, 26 seconds
+
+Epoch number 18
+100%|██████████| 187/187 [49:21<00:00, 15.84s/it]
+Training dataset: Got 11831 out of 11959 images correctly (98.930%). Epoch loss: 0.031
+100%|██████████| 54/54 [09:48<00:00, 10.89s/it]
+Testing dataset. Got 3278 out of 3421 images correctly (95.820%)
+Epoch number 18 takes 3550.7229 seconds
+Estimated remaining time: 0 hours, 56 minutes, 17 seconds
+
+Epoch number 19
+100%|██████████| 187/187 [49:19<00:00, 15.83s/it]
+Training dataset: Got 11833 out of 11959 images correctly (98.946%). Epoch loss: 0.030
+100%|██████████| 54/54 [09:48<00:00, 10.89s/it]
+Testing dataset. Got 3181 out of 3421 images correctly (92.985%)
+Epoch number 19 takes 3548.1708 seconds
+Estimated remaining time: 0 hours, 0 minutes, 0 seconds
+
+Epoch number 20
+100%|██████████| 187/187 [49:21<00:00, 15.84s/it]
+Training dataset: Got 11771 out of 11959 images correctly (98.428%). Epoch loss: 0.042
+100%|██████████| 54/54 [09:48<00:00, 10.90s/it]
+Testing dataset. Got 3223 out of 3421 images correctly (94.212%)
+Epoch number 20 takes 3550.6406 seconds
+Estimated remaining time: 0 hours, 0 minutes, 0 seconds
+
+ResNet Training Finished
+ResNet Takes 69251.036423450023 for 20 epochs
+ResNet152
+Best Epoch 18
+Best Test Accuracy 95.81993569131832

@@ -1,0 +1,3422 @@
+True Label,Predicted Label,Is Correct
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+basophil,immature granulocytes,❌
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,immature granulocytes,❌
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+basophil,lymphocyte,❌
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+basophil,basophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+immature granulocytes,lymphocyte,❌
+neutrophil,neutrophil,✅
+neutrophil,immature granulocytes,❌
+basophil,basophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+basophil,basophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+immature granulocytes,monocyte,❌
+monocyte,monocyte,✅
+platelet,platelet,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+immature granulocytes,neutrophil,❌
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,monocyte,❌
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+erythroblast,immature granulocytes,❌
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+immature granulocytes,neutrophil,❌
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+platelet,platelet,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+eosinophil,immature granulocytes,❌
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+platelet,platelet,✅
+erythroblast,neutrophil,❌
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,monocyte,❌
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+monocyte,immature granulocytes,❌
+erythroblast,neutrophil,❌
+platelet,platelet,✅
+immature granulocytes,monocyte,❌
+erythroblast,erythroblast,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,lymphocyte,❌
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+basophil,lymphocyte,❌
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+monocyte,lymphocyte,❌
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,lymphocyte,❌
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+basophil,basophil,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+monocyte,lymphocyte,❌
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+basophil,lymphocyte,❌
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,erythroblast,❌
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+immature granulocytes,monocyte,❌
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+monocyte,lymphocyte,❌
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+monocyte,immature granulocytes,❌
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+immature granulocytes,lymphocyte,❌
+platelet,platelet,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,immature granulocytes,❌
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,lymphocyte,❌
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,lymphocyte,❌
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+immature granulocytes,monocyte,❌
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,lymphocyte,❌
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+basophil,basophil,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+immature granulocytes,monocyte,❌
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+basophil,monocyte,❌
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+basophil,basophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+basophil,basophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,monocyte,❌
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+basophil,monocyte,❌
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+monocyte,lymphocyte,❌
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,immature granulocytes,❌
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+basophil,basophil,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,monocyte,❌
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+basophil,basophil,✅
+basophil,monocyte,❌
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+basophil,lymphocyte,❌
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,monocyte,❌
+immature granulocytes,monocyte,❌
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+basophil,monocyte,❌
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,lymphocyte,❌
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+basophil,lymphocyte,❌
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,monocyte,❌
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+immature granulocytes,monocyte,❌
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+basophil,immature granulocytes,❌
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+immature granulocytes,monocyte,❌
+eosinophil,eosinophil,✅
+erythroblast,immature granulocytes,❌
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,basophil,❌
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+basophil,basophil,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,monocyte,❌
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+neutrophil,immature granulocytes,❌
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+neutrophil,immature granulocytes,❌
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+immature granulocytes,neutrophil,❌
+neutrophil,neutrophil,✅
+neutrophil,immature granulocytes,❌
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+platelet,platelet,✅
+basophil,basophil,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,lymphocyte,❌
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+basophil,basophil,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+platelet,platelet,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,monocyte,❌
+monocyte,lymphocyte,❌
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+neutrophil,immature granulocytes,❌
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+monocyte,lymphocyte,❌
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+erythroblast,platelet,❌
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+basophil,basophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+basophil,monocyte,❌
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+erythroblast,basophil,❌
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+basophil,immature granulocytes,❌
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,monocyte,❌
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,monocyte,❌
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+erythroblast,lymphocyte,❌
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,monocyte,❌
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+erythroblast,monocyte,❌
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+basophil,basophil,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+platelet,platelet,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+basophil,immature granulocytes,❌
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+basophil,immature granulocytes,❌
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+basophil,monocyte,❌
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+erythroblast,platelet,❌
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+basophil,lymphocyte,❌
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,immature granulocytes,❌
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,immature granulocytes,❌
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+immature granulocytes,basophil,❌
+platelet,platelet,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+immature granulocytes,basophil,❌
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+neutrophil,immature granulocytes,❌
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,basophil,❌
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+basophil,basophil,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+erythroblast,immature granulocytes,❌
+platelet,platelet,✅
+immature granulocytes,monocyte,❌
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+monocyte,immature granulocytes,❌
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+monocyte,immature granulocytes,❌
+basophil,basophil,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+neutrophil,immature granulocytes,❌
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,monocyte,❌
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,lymphocyte,❌
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,neutrophil,❌
+basophil,basophil,✅
+basophil,basophil,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+platelet,platelet,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,monocyte,❌
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+basophil,basophil,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,eosinophil,❌
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+platelet,platelet,✅
+platelet,platelet,✅
+basophil,monocyte,❌
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+immature granulocytes,erythroblast,❌
+basophil,basophil,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+basophil,basophil,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,immature granulocytes,❌
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,immature granulocytes,❌
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+basophil,lymphocyte,❌
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+monocyte,immature granulocytes,❌
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+basophil,erythroblast,❌
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+immature granulocytes,monocyte,❌
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+immature granulocytes,neutrophil,❌
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,neutrophil,❌
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+basophil,immature granulocytes,❌
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+neutrophil,immature granulocytes,❌
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+immature granulocytes,lymphocyte,❌
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,lymphocyte,❌
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,lymphocyte,❌
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+basophil,basophil,✅
+platelet,platelet,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+basophil,monocyte,❌
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+basophil,erythroblast,❌
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+neutrophil,immature granulocytes,❌
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+immature granulocytes,lymphocyte,❌
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+immature granulocytes,lymphocyte,❌
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+basophil,monocyte,❌
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+immature granulocytes,lymphocyte,❌
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,immature granulocytes,❌
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+basophil,basophil,✅
+immature granulocytes,monocyte,❌
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,lymphocyte,❌
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+immature granulocytes,lymphocyte,❌
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+monocyte,lymphocyte,❌
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,immature granulocytes,❌
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+basophil,immature granulocytes,❌
+immature granulocytes,lymphocyte,❌
+basophil,basophil,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+basophil,monocyte,❌
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,lymphocyte,❌
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,immature granulocytes,❌
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,monocyte,❌
+immature granulocytes,erythroblast,❌
+erythroblast,lymphocyte,❌
+immature granulocytes,immature granulocytes,✅
+basophil,immature granulocytes,❌
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+basophil,basophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+basophil,immature granulocytes,❌
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+neutrophil,immature granulocytes,❌
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+erythroblast,lymphocyte,❌
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+basophil,basophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+neutrophil,immature granulocytes,❌
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,immature granulocytes,❌
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,immature granulocytes,❌
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,monocyte,❌
+immature granulocytes,neutrophil,❌
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,immature granulocytes,❌
+platelet,platelet,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+erythroblast,erythroblast,✅
+immature granulocytes,monocyte,❌
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+immature granulocytes,monocyte,❌
+immature granulocytes,immature granulocytes,✅
+neutrophil,monocyte,❌
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+neutrophil,immature granulocytes,❌
+monocyte,monocyte,✅
+eosinophil,eosinophil,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+erythroblast,erythroblast,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+lymphocyte,lymphocyte,✅
+eosinophil,eosinophil,✅
+lymphocyte,lymphocyte,✅
+erythroblast,erythroblast,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+basophil,basophil,✅
+lymphocyte,lymphocyte,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+monocyte,immature granulocytes,❌
+basophil,basophil,✅
+monocyte,monocyte,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+immature granulocytes,immature granulocytes,✅
+lymphocyte,lymphocyte,✅
+platelet,platelet,✅
+basophil,immature granulocytes,❌
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
+immature granulocytes,basophil,❌
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+immature granulocytes,lymphocyte,❌
+neutrophil,neutrophil,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+monocyte,monocyte,✅
+platelet,platelet,✅
+platelet,platelet,✅
+erythroblast,erythroblast,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+eosinophil,eosinophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+neutrophil,neutrophil,✅
+basophil,basophil,✅
+eosinophil,eosinophil,✅
+platelet,platelet,✅
+immature granulocytes,immature granulocytes,✅
+erythroblast,erythroblast,✅
+basophil,lymphocyte,❌
+immature granulocytes,monocyte,❌
+basophil,basophil,✅
+platelet,platelet,✅
+basophil,lymphocyte,❌
+erythroblast,erythroblast,✅
+platelet,platelet,✅
+platelet,platelet,✅
+neutrophil,neutrophil,✅
+eosinophil,eosinophil,✅
+eosinophil,eosinophil,✅
+erythroblast,erythroblast,✅
+basophil,immature granulocytes,❌
+immature granulocytes,immature granulocytes,✅
+neutrophil,neutrophil,✅
+lymphocyte,lymphocyte,✅
+basophil,basophil,✅
+neutrophil,neutrophil,✅
+platelet,platelet,✅
+eosinophil,eosinophil,✅
